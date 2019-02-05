@@ -1,0 +1,48 @@
+p {
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
+ul, li {
+    margin-top: 8px;
+}
+h1, h2, h3 {
+    font-weight: 400;
+}
+.title1 {
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+.title2 {
+    font-size: 32px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 8px;
+}
+.title3 {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+#main {
+     margin-left: 128px;
+     margin-right: 128px;
+}
+#header {
+    margin-bottom: 32px;
+    text-align: center;
+    margin-left: 128px;
+    margin-right: 128px;
+}
+#footer {
+    margin-top: 64px;
+    text-align: center;
+    margin-left: 128px;
+    margin-right: 128px;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.icon {
+    margin-left: 20px;
+}
